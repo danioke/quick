@@ -1981,7 +1981,7 @@ section,
 
 .service-details ul li {
   padding: 5px 0;
-  /*display: flex;*/
+  display: flex;
   align-items: center;
 }
 
